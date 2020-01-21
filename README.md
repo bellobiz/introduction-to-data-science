@@ -1,4 +1,4 @@
-[INTRODUCTION TO DATA SCIENCE](https://drive.google.com/drive/folders/1ljyUQNGgWEoHGA_3Z2_IXwzhTqbyKWEf?usp=sharing)<br>
+[INTRODUCTION TO DATA SCIENCE](https://drive.google.com/drive/folders/1ljyUQNGgWEoHGA_3Z2_IXwzhTqbyKWEf)<br>
 [`TechStack`](https://techstack.surge.sh) | [`Codecademy`](http://ssqt.co/mQfpbL0)
 
 # Begin Your Journey
